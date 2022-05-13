@@ -1,6 +1,6 @@
 # I-have-watched-this-and-played-that
 
-I always struggled keeping track of stuff that I have watched (movies, shows, or anime), and video games that I have played. And I'm thinking of creating a user script that does just that.
+I always struggled keeping track of stuff that I have watched (movies, shows, or anime), and video games that I have played. I'm thinking of creating a user script that does just that.
 
 I'll keep this repository for list of ideas to try and figure what works best
 
